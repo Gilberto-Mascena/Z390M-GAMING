@@ -1,6 +1,6 @@
 # EFI OC Z390M GAMING macOS Ventura
 
-Descrição | OC 0.8.3  Dev.
+Descrição | OC 0.8.3  RELEASE.
 :----|:----
 macOS | Ventura Beta 4
 

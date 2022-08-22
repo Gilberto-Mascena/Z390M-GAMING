@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#OC-0.8.3-Dev-Z390M-GAMING</key>
+	<key>#OC-0.8.3-REL-Z390M-GAMING</key>
 	<string></string>
 	<key>#iMacPro1,1  I7 9700F RX 570</key>
 	<string></string>
@@ -895,7 +895,7 @@
 			<key>AudioDevice</key>
 			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
 			<key>AudioOutMask</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>AudioSupport</key>
 			<true/>
 			<key>DisconnectHda</key>
