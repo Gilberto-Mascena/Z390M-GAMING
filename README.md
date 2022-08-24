@@ -19,8 +19,8 @@ WI-FI | BCM94360CD chip Apple
 ## *Captura de telas*
 
 ![Captura de Tela 2022-07-27 às 21 05 07](https://user-images.githubusercontent.com/103699861/181393824-21a8ceba-789c-4b1c-929f-645c552a0f15.png)
-
 ![Captura de Tela 2022-07-27 às 21 05 56](https://user-images.githubusercontent.com/103699861/181393831-f9e62a80-98cf-4ca3-8fd6-e96edbc5cae2.png)
+![Captura de Tela 2022-08-23 às 21 29 11](https://user-images.githubusercontent.com/103699861/186296063-8919a747-64b2-44df-943e-2ee0cbddd3b0.png)
 
 
 
