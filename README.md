@@ -1,8 +1,8 @@
 # *EFI OC Z390M GAMING macOS Ventura*
 
-*Sistema* | *OC 0.8.3  RELEASE*
+*Sistema* | *OC 0.8.4  RELEASE*
 :---:|:---
-macOS | Ventura Beta 5
+macOS | Ventura Beta 6
 
 ## *Meu Setup*
 
