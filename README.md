@@ -2,7 +2,7 @@
 
 *Sistema* | *OC 0.8.5  RELEASE*
 :---:|:---
-macOS | Ventura Beta 6
+macOS | Ventura 
 
 ## *Meu Setup*
 
