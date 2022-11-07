@@ -1,6 +1,6 @@
 # *EFI OC Z390M GAMING macOS Ventura*
 
-*Sistema* | *OC 0.8.5  RELEASE*
+*Sistema* | *OC 0.8.6  RELEASE*
 :---:|:---
 macOS | Ventura 
 
@@ -8,9 +8,13 @@ macOS | Ventura
 
 *Config* | *Desktop*
 :---:|:---
+Gabinete | Fortress-tg Gamemax
+Fonte | GIGABYTE - GP-P550
 Placa Mãe | Gigabyte Z390M GAMING
 CPU | Core I7 9700F
 Water Cooler | DEEPCOOL GAMMAXX L120T
+NVME M.2 | XPG S11L 256GB / macOS
+SSD M.2 | WD GREEN 240GB / Windows 11
 GPU | RX 570 4G PowerColor
 Memória ram | 4x4GB total 16GB
 WI-FI | BCM94360CD chip Apple
