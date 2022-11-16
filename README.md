@@ -42,8 +42,8 @@ WI-FI | BCM94360CD chip Apple
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 
-## Licença 
+## *Licença* 
 
-The [MIT License](https://github.com/Gilberto-Mascena/Z390M_GAMING/blob/main/LICENSE.md) (MIT)
+*The* [*MIT License*](https://github.com/Gilberto-Mascena/Z390M_GAMING/blob/main/LICENSE.md) (*MIT*)
 
-Copyright :copyright: 2020 
+*Copyright :copyright: 2020* 
