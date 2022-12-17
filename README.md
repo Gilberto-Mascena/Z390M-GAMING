@@ -1,7 +1,7 @@
 # *EFI OC Z390M GAMING macOS Ventura*
 
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)
-[release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390M_GAMING)
+![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390M_GAMING)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390M_GAMING)
 ![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390M_GAMING)
 
