@@ -1,4 +1,4 @@
-Insturções de uso das kexts !!!
+Instruções de uso das kexts !!!
 
 #SMBIOS usada: iMacPro1,1.
 
