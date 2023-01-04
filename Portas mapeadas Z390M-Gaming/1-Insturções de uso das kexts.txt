@@ -1,0 +1,11 @@
+Insturções de uso das kexts !!!
+
+#SMBIOS usada: iMacPro1,1.
+
+#USBMap.kext (para Catalina e mais novos).
+
+#USBMapLegacy.kext (Para Mojave e mais antigos).
+
+#Não usar ambas carregadas no confg.plist.
+
+#Mudar a SMBIOS e ou adição de novos Devices, poderá implicar em novo mapeamento de controladoras USB e mapeamento de portas USB .

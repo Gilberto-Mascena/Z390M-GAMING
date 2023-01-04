@@ -1,0 +1,9 @@
+Resultado geekbench
+
+
+
+#macOS
+https://browser.geekbench.com/v5/cpu/19703520
+
+#Windows
+https://browser.geekbench.com/v5/cpu/19703206
