@@ -4,4 +4,5 @@ EFI/OC/._config.plist
 ._.gitignore
 .DS_Store
 .contentVisibility
+._*.png
 
