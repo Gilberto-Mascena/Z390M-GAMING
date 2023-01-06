@@ -1,6 +1,6 @@
 # *EFI OC Z390M GAMING macOS Ventura*
 
-<img align="right" src="./Imagens/z390m.png" alt="Z390 M GAMING" width="430">
+
 
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390M_GAMING)
@@ -8,6 +8,8 @@
 ![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390M_GAMING)
 
 ## *Sistema Operacional*
+
+<img align="right" src="./Imagens/z390m.png" alt="Z390 M GAMING" width="430">
 
 *macOS* | *Ventura*
 :---:|:---
@@ -31,17 +33,18 @@ WI-FI | BCM94360CD chip Apple
 
 ## *Captura de telas*
 
-
-<img align="right" src="1000.webp" alt="Z390 M GAMING" width="430">
-<img align="right" src="1000.webp" alt="Z390 M GAMING" width="430">
-<img align="right" src="1000.webp" alt="Z390 M GAMING" width="430">
-<img align="right" src="1000.webp" alt="Z390 M GAMING" width="430">
-<img align="right" src="1000.webp" alt="Z390 M GAMING" width="430">
-<img align="right" src="1000.webp" alt="Z390 M GAMING" width="430">
-<img align="right" src="1000.webp" alt="Z390 M GAMING" width="430">
+<img align="right" src="./Imagens/Sobre_Este_Mac.png" alt="Z390 M GAMING" width="430">
+<img align="right" src="./Imagens/Sobre.png" alt="Z390 M GAMING" width="430">
+<img align="right" src="./Imagens/Hackintool_Peripherals.png" alt="Z390 M GAMING" width="430">
+<img align="right" src="./Imagens/Hackintool_PCIe.png" alt="Z390 M GAMING" width="430">
+<img align="right" src="./Imagens/USB_Ports.png" alt="Z390 M GAMING" width="430">
+<img align="right" src="./Imagens/Hackintool_kexts.png" alt="Z390 M GAMING" width="430">
 
 
+## *Resultados Geekbench*
 
+- [*Windows*](https://browser.geekbench.com/v5/cpu/19703206)
+- [*macOS*](https://browser.geekbench.com/v5/cpu/19703520)
 
 
 ## *Agradecimentos*
