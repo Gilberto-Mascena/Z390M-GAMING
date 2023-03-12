@@ -30,6 +30,15 @@ GPU | RX 570 4G PowerColor
 Memória ram |CORSAIR VENGEANCE 2x16GB total 32GB
 WI-FI | BCM94360CD chip Apple
 
+## *O que funciona*
+
+- [x] Áudio.
+- [x] LAN.
+- [x] WI-FI.
+- [x] Bluetooth.
+- [x] USB.
+- [x] Sleep.
+
 ## *Resultados Geekbench*
 
 - [*Windows*](https://browser.geekbench.com/v5/cpu/19703206)
@@ -54,6 +63,7 @@ WI-FI | BCM94360CD chip Apple
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- [*CorpNewt*](https://github.com/corpnewt)
 
 ## *Licença* 
 
