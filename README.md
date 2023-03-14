@@ -59,11 +59,11 @@ WI-FI | BCM94360CD chip Apple
 ## *Agradecimentos*
 
 - [*Acidanthera*](https://github.com/acidanthera)
-- [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
+- [*CorpNewt*](https://github.com/corpnewt)
 - [*CrisHotpatch*](https://t.me/crishotpatch)
+- [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
-- [*CorpNewt*](https://github.com/corpnewt)
 
 ## *Licença* 
 
