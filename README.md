@@ -19,7 +19,7 @@
 
 *Config* | *Desktop*
 :---:|:---
-Placa Mãe | [*Gigabyte Z390M GAMING*](https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf)
+Placa Mãe | <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" target="_blank">*Gigabyte Z390M GAMING*</a>
 Gabinete | Fortress-tg Gamemax
 Fonte | GIGABYTE - GP-P550
 CPU | Core I7 9700F
