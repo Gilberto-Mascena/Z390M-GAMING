@@ -19,9 +19,9 @@
 
 *Config* | *Desktop*
 :---:|:---
+Placa Mãe | [*Gigabyte Z390M GAMING*](https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf)
 Gabinete | Fortress-tg Gamemax
 Fonte | GIGABYTE - GP-P550
-Placa Mãe | Gigabyte Z390M GAMING
 CPU | Core I7 9700F
 Water Cooler | DEEPCOOL GAMMAXX L120T
 NVME M.2 | XPG GAMMIX S11L 256GB / macOS
