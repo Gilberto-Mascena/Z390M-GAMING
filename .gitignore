@@ -1,7 +1,4 @@
-._Store
-EFI/OC/._config.plist
-._README.md
-._.gitignore
-.DS_Store
-._*.png
-._*.txt
+**/._.*
+**/.DS_Store
+**/._*
+**/.vscode
