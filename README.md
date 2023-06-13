@@ -1,4 +1,4 @@
-# *EFI OC Z390M GAMING macOS Ventura*
+# *EFI OC Z390M GAMING macOS Ventura (Sonoma BETA1)*
 
 
 
@@ -11,7 +11,7 @@
 
 <img align="right" src="./Imagens/z390m.png" alt="Z390 M GAMING" width="330">
 
-*macOS* | *Ventura*
+*macOS* | *Ventura (Sonoma BETA1)*
 :---:|:---
 
 
@@ -34,21 +34,23 @@ WI-FI | BCM94360CD chip Apple
 
 - [x] Áudio.
 - [x] LAN.
-- [x] WI-FI.
+- [x] WI-FI. (não funciona no Sonoma BETA1)
 - [x] Bluetooth.
 - [x] USB.
 - [x] Sleep.
 
 ## *Resultados Geekbench*
 
-- [*Windows*](https://browser.geekbench.com/v5/cpu/19703206)
-- [*macOS*](https://browser.geekbench.com/v5/cpu/19703520)
+- [*Windows 11*](https://browser.geekbench.com/v5/cpu/19703206)
+- [*macOS Ventura*](https://browser.geekbench.com/v5/cpu/19703520)
+- [*macOS Sonoma*](https://browser.geekbench.com/v6/cpu/1566485)
 
 
 ## *Captura de telas*
 
 ![Sobre_Este_Mac](https://user-images.githubusercontent.com/103699861/211068915-4c3cad37-ddf3-478b-bbff-18db80fee956.png)
-![Sobre](https://user-images.githubusercontent.com/103699861/211068963-7337e637-db69-41bb-a7e4-3e11ff33e374.png)
+![Sobre Ventura](https://user-images.githubusercontent.com/103699861/211068963-7337e637-db69-41bb-a7e4-3e11ff33e374.png)
+![Sobre Sonoma](https://github.com/Gilberto-Mascena/Z390M_GAMING/assets/103699861/3993b082-9b46-4051-bac2-4566ec8aa439.png)
 ![Hackintool_Peripherals](https://user-images.githubusercontent.com/103699861/211069054-801c45ef-5ae4-4f47-bcf2-be6b2d775632.png)
 ![Hackintool_PCIe](https://user-images.githubusercontent.com/103699861/211069091-0312b533-8e6d-4bf9-9d1d-615907c8f256.png)
 ![USB_Ports](https://user-images.githubusercontent.com/103699861/211069110-4ebffbf0-49d4-42aa-90a3-91ef3203a4e2.png)
