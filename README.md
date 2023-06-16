@@ -56,7 +56,19 @@ WI-FI | BCM94360CD chip Apple
 ![USB_Ports](https://user-images.githubusercontent.com/103699861/211069110-4ebffbf0-49d4-42aa-90a3-91ef3203a4e2.png)
 ![Hackintool_kexts](https://user-images.githubusercontent.com/103699861/211069119-367064ca-8298-4ec9-be3e-1875911c432b.png)
 
+## Utilização
 
+* Recomendação 1
+  * *Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
+* Recomendação 2
+  * *Use [ProperTree](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
+* Recomendação 3
+  * *Use [USBMap](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
+* Recomendação 4
+  * *Extrair sua DSDT a partir do windows.*
+  * *Use [SSDTTime](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
+* Recomendação 5
+  * *Use [MaciASL](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
 
 ## *Agradecimentos*
 
