@@ -6,6 +6,7 @@
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390M_GAMING)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390M_GAMING)
 ![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390M_GAMING)
+##
 
 ## *Sistema Operacional*
 
@@ -13,7 +14,7 @@
 
 *macOS* | *Ventura (Sonoma BETA1)*
 :---:|:---
-
+##
 
 ## *Meu Setup*
 
@@ -29,6 +30,7 @@ NVME M.2 | XPG GAMMIX S41 512GB / Windows 11
 GPU | RX 570 4G PowerColor
 Memória ram |CORSAIR VENGEANCE 2x16GB total 32GB
 WI-FI | BCM94360CD chip Apple
+##
 
 ## *O que funciona*
 
@@ -38,13 +40,14 @@ WI-FI | BCM94360CD chip Apple
 - [x] Bluetooth.
 - [x] USB.
 - [x] Sleep.
+##
 
 ## *Resultados Geekbench*
 
 - [*Windows 11*](https://browser.geekbench.com/v5/cpu/19703206)
 - [*macOS Ventura*](https://browser.geekbench.com/v5/cpu/19703520)
 - [*macOS Sonoma*](https://browser.geekbench.com/v6/cpu/1566485)
-
+##
 
 ## *Captura de telas*
 
@@ -55,6 +58,7 @@ WI-FI | BCM94360CD chip Apple
 ![Hackintool_PCIe](https://user-images.githubusercontent.com/103699861/211069091-0312b533-8e6d-4bf9-9d1d-615907c8f256.png)
 ![USB_Ports](https://user-images.githubusercontent.com/103699861/211069110-4ebffbf0-49d4-42aa-90a3-91ef3203a4e2.png)
 ![Hackintool_kexts](https://user-images.githubusercontent.com/103699861/211069119-367064ca-8298-4ec9-be3e-1875911c432b.png)
+##
 
 ## *Utilização*
 
@@ -69,6 +73,7 @@ WI-FI | BCM94360CD chip Apple
   * *Use [SSDTTime](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
 * Recomendação 5
   * *Use [MaciASL](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
+##
 
 ## *Agradecimentos*
 
@@ -78,9 +83,11 @@ WI-FI | BCM94360CD chip Apple
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+##
 
 ## *Licença* 
 
 *The* [*MIT License*](https://github.com/Gilberto-Mascena/Z390M_GAMING/blob/main/LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020* 
+##
