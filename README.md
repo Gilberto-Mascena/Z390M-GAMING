@@ -56,7 +56,7 @@ WI-FI | BCM94360CD chip Apple
 ![USB_Ports](https://user-images.githubusercontent.com/103699861/211069110-4ebffbf0-49d4-42aa-90a3-91ef3203a4e2.png)
 ![Hackintool_kexts](https://user-images.githubusercontent.com/103699861/211069119-367064ca-8298-4ec9-be3e-1875911c432b.png)
 
-## Utilização
+## *Utilização*
 
 * Recomendação 1
   * *Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
