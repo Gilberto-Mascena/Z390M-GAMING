@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -22,8 +22,12 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-            Changes in this Release
-            - First Change:
-            - Second Change:
+            Mudanças nesta Versão
+
+            - Primeira Mudança:
+              Adicionado OpenShell.efi.
+
+            - Segunda Mudança:
+              Recomendado para depuração, a partir do menu do OpenCore.
           draft: false
           prerelease: false
