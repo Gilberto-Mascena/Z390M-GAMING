@@ -1,4 +1,4 @@
-# *EFI OC Z390M GAMING macOS Ventura (Sonoma BETA1)*
+# *EFI OC Z390M GAMING macOS Ventura (Sonoma BETA 1)*
 
 
 
@@ -12,7 +12,7 @@
 
 <img align="right" src="./Imagens/z390m.png" alt="Z390 M GAMING" width="330">
 
-*macOS* | *Ventura (Sonoma BETA1)*
+*macOS* | *Ventura (Sonoma BETA 1)*
 :---:|:---
 ##
 
@@ -44,9 +44,10 @@ WI-FI | BCM94360CD chip Apple
 
 ## *Resultados Geekbench*
 
-- [*Windows 11*](https://browser.geekbench.com/v5/cpu/19703206)
-- [*macOS Ventura*](https://browser.geekbench.com/v5/cpu/19703520)
-- [*macOS Sonoma*](https://browser.geekbench.com/v6/cpu/1566485)
+- [*Windows 11 Pro*](https://browser.geekbench.com/v5/cpu/19703206)
+- [*macOS Ventura 13.1*](https://browser.geekbench.com/v5/cpu/19703520)
+- [*macOS Sonoma 14.0 Beta 1*](https://browser.geekbench.com/v6/cpu/1566485)
+- [*Ubuntu 22.04.2 LTS*](https://browser.geekbench.com/v6/cpu/1953890)
 ##
 
 ## *Captura de telas*
@@ -63,16 +64,16 @@ WI-FI | BCM94360CD chip Apple
 ## *Utilização*
 
 * Recomendação 1
-  * *Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
+  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
 * Recomendação 2
-  * *Use [ProperTree](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
+  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
 * Recomendação 3
-  * *Use [USBMap](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
 * Recomendação 4
   * *Extrair sua DSDT a partir do windows.*
-  * *Use [SSDTTime](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
+  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
 * Recomendação 5
-  * *Use [MaciASL](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
+  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
 ##
 
 ## *Agradecimentos*

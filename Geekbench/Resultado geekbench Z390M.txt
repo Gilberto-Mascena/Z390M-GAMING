@@ -2,11 +2,14 @@ Resultado geekbench
 
 
 
-#macOS Ventura
+# macOS Ventura
 https://browser.geekbench.com/v5/cpu/19703520
 
-#macOS Sonoma
+# macOS Sonoma
 https://browser.geekbench.com/v6/cpu/1566485
 
-#Windows 11
+# Windows 11
 https://browser.geekbench.com/v5/cpu/19703206
+
+# Ubuntu 22.04.2 LTS
+https://browser.geekbench.com/v6/cpu/1953890
