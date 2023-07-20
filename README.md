@@ -18,7 +18,7 @@
 
 ## *Meu Setup*
 
-*Config | Desktop*
+*Config* | *Desktop*
 :---:|:---
 *Placa Mãe* | <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" target="_blank">*Gigabyte Z390M GAMING*</a>
 *Gabinete* | *Fortress-tg Gamemax*
@@ -61,7 +61,7 @@
 ![Hackintool_kexts](https://user-images.githubusercontent.com/103699861/211069119-367064ca-8298-4ec9-be3e-1875911c432b.png)
 ##
 
-## *Kexts usadas, (todas versões Releases).*
+## *Kexts usadas, (todas versões Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
