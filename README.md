@@ -77,7 +77,7 @@
 * _**Recomendação 1**_
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
 * _**Recomendação 2**_
-  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
+  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist.*     
 * _**Recomendação 3**_
   * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
 * _**Recomendação 4**_
@@ -105,7 +105,7 @@
 * _**Habilitar**_
 
   * *VT-x*
-  * *Above 4G Decoding*
+  * *Above 4G Decoding (Resizable BAR -> Disable)*
   * *Hyper-Threading*
   * *Execute Disable Bit*
   * *EHCI/XHCI Hand-off*
