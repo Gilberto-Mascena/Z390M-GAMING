@@ -10,7 +10,7 @@
 
 ## *Sistema Operacional*
 
-<img align="right" src="./Imagens/banner.png" alt="Z390 M GAMING" width="330">
+<img align="right" src="./Imagens/banner.png" alt="foto Z390 M GAMING" width="330">
 
 *macOS* | *Ventura (Sonoma BETA 1)*
 :---:|:---
@@ -30,12 +30,13 @@
 *GPU* | *RX 570 4G PowerColor*
 *Memória ram* | *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
 *WI-FI* | *BCM94360CD chip Apple*
+*Rede* | *Intel i219-V*
 ##
 
 ## *O que funciona*
 
 - [x] *Áudio.*
-- [x] *LAN.*
+- [x] *Rede.*
 - [x] *WI-FI. (não funciona no Sonoma BETA 1)*
 - [x] *Bluetooth.*
 - [x] *USB.*
@@ -78,7 +79,7 @@
 * _**Recomendação 2**_
   * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist.*     
 * _**Recomendação 3**_
-  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, (apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit + USBInjectAll).*
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
 * _**Recomendação 4**_
   * *Extrair sua DSDT a partir do windows.*
   * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
@@ -125,7 +126,7 @@
 
 ## *Licença* 
 
-*The* [*MIT License*](https://github.com/Gilberto-Mascena/Z390M_GAMING/blob/main/LICENSE.md) (*MIT*)
+*The* [*MIT License*](LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2020* 
 ##
