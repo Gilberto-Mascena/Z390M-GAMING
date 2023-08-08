@@ -52,13 +52,12 @@
 
 ## *Captura de telas*
 
-![Sobre_Este_Mac](https://user-images.githubusercontent.com/103699861/211068915-4c3cad37-ddf3-478b-bbff-18db80fee956.png)
-![Sobre Ventura](https://user-images.githubusercontent.com/103699861/211068963-7337e637-db69-41bb-a7e4-3e11ff33e374.png)
-![Sobre Sonoma](https://github.com/Gilberto-Mascena/Z390M_GAMING/assets/103699861/3993b082-9b46-4051-bac2-4566ec8aa439.png)
-![Hackintool_Peripherals](https://user-images.githubusercontent.com/103699861/211069054-801c45ef-5ae4-4f47-bcf2-be6b2d775632.png)
-![Hackintool_PCIe](https://user-images.githubusercontent.com/103699861/211069091-0312b533-8e6d-4bf9-9d1d-615907c8f256.png)
-![USB_Ports](https://user-images.githubusercontent.com/103699861/211069110-4ebffbf0-49d4-42aa-90a3-91ef3203a4e2.png)
-![Hackintool_kexts](https://user-images.githubusercontent.com/103699861/211069119-367064ca-8298-4ec9-be3e-1875911c432b.png)
+![Sobre Ventura](./Imagens/about_Ventura.png)
+![Sobre Sonoma](./Imagens/about_Ventura.png)
+![Hackintool_Peripherals](./Imagens/Peripherals.png)
+![Hackintool_PCIe](./Imagens/PCIe.png)
+![USB_Ports](./Imagens/USB_Ports.png)
+![Hackintool_kexts](./Imagens/kexts.png)
 ##
 
 ## *Kexts usadas, (todas versões Releases)*

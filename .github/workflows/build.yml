@@ -24,8 +24,11 @@ jobs:
             _**Mudanças nesta Versão**_
 
             - Primeira Mudança:
-              _Adicionado `OpenShell.efi`._
+              _Atualizado `OpenCore` para `0.9.4`._
             - Segunda Mudança:
-              _Recomendado para depuração, a partir do menu do OpenCore._
+              _Atualizadas as `kexts`:_
+              _`lilu.kext`_
+              _`WhateverGreen.kext`_
+              _`AppleALC.kext`_
           draft: false
           prerelease: false
