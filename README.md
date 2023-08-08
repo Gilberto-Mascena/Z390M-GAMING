@@ -53,7 +53,7 @@
 ## *Captura de telas*
 
 ![Sobre Ventura](./Imagens/about_Ventura.png)
-![Sobre Sonoma](./Imagens/about_Ventura.png)
+![Sobre Sonoma](./Imagens/about_Sonoma.png)
 ![Hackintool_Peripherals](./Imagens/Peripherals.png)
 ![Hackintool_PCIe](./Imagens/PCIe.png)
 ![USB_Ports](./Imagens/USB_Ports.png)
