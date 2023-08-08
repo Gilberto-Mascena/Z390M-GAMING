@@ -10,7 +10,7 @@
 
 ## *Sistema Operacional*
 
-<img align="right" src="./Imagens/z390m.png" alt="Z390 M GAMING" width="330">
+<img align="right" src="./Imagens/banner.png" alt="Z390 M GAMING" width="330">
 
 *macOS* | *Ventura (Sonoma BETA 1)*
 :---:|:---
