@@ -12,25 +12,34 @@
 
 <img align="right" src="./Imagens/banner.png" alt="foto Z390 M GAMING" width="330">
 
-*macOS* | *Ventura (Sonoma BETA 1)*
-:---:|:---
+_**macOS**_  _**Ventura (Sonoma BETA 1)**_
+
 ##
 
 ## *Meu Setup*
 
-*Config* | *Desktop*
-:---:|:---
-*Placa Mãe* | <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" target="_blank">*Gigabyte Z390M GAMING*</a>
-*Gabinete* | *Fortress-tg Gamemax*
-*Fonte* | *GIGABYTE - GP-P550*
-*CPU* | *Core I7 9700F*
-*Water Cooler* | *DEEPCOOL GAMMAXX L120T*
-*NVME M.2* | *XPG GAMMIX S11L 256GB / macOS*
-*NVME M.2* | *XPG GAMMIX S41 512GB / Windows 11*
-*GPU* | *RX 570 4G PowerColor*
-*Memória ram* | *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
-*WI-FI* | *BCM94360CD chip Apple*
-*Rede* | *Intel i219-V*
+- _**Placa Mãe**_
+  - <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" target="_blank">*Gigabyte Z390M GAMING*</a>
+- _**Gabinete**_
+  - *Fortress-tg Gamemax*
+- _**Fonte**_
+  - *GIGABYTE - GP-P550*
+- _**CPU**_
+  - *Core I7 9700F*
+- _**Water Cooler**_
+  - *DEEPCOOL GAMMAXX L120T*
+- _**NVME M.2**_
+  - *XPG GAMMIX S11L 256GB / macOS*
+- _**NVME M.2**_
+  - *XPG GAMMIX S41 512GB / Windows 11*
+- _**GPU**_
+  - *RX 570 4G PowerColor*
+- _**Memória ram**_
+  - *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
+- _**WI-FI**_
+  - *BCM94360CD chip Apple*
+- _**Rede**_
+  - *Intel I219-V*
 ##
 
 ## *O que funciona*
