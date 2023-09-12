@@ -24,11 +24,12 @@ jobs:
             _**Mudanças nesta Versão**_
 
             - Primeira Mudança:
-              _Atualizado `OpenCore` para `0.9.4`._
+              _Atualizado `OpenCore` para `0.9.5`._
             - Segunda Mudança:
-              _Atualizadas as `kexts`:_
-              _`lilu.kext`_
-              _`WhateverGreen.kext`_
+              _Adicionado em UEFI quirk: `ShimRetainProtocol`._                
+              _`AppleALC.kext`_  
+            - Terceira Mudança:
+              _Atualizadas as `kexts`:_              
               _`AppleALC.kext`_
           draft: false
           prerelease: false

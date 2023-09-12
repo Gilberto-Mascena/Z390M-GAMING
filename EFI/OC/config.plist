@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#OC-0.9.3-REL-Z390M-GAMING</key>
+	<key>#OC-0.9.5-REL-Z390M-GAMING</key>
 	<string></string>
 	<key>#iMacPro1,1  I7 9700F RX 570</key>
 	<string></string>
@@ -1104,6 +1104,8 @@
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
 			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
