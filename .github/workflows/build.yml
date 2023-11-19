@@ -24,11 +24,19 @@ jobs:
             _**Mudanças nesta Versão**_
 
             - Primeira Mudança:
-              - _Atualizado `OpenCore` para `0.9.5`._
+              - _Atualizado `OpenCore` para `0.9.6`._
+
             - Segunda Mudança:
-              - _Adicionado em UEFI quirk: `ShimRetainProtocol`._             
-            - Terceira Mudança:
-              - _Atualizadas as `kexts`:_              
+              - _Adicionado em config.plist -> `NVRAM` -> `Add` -> `7C436110-AB2A-4BBB-A880-FE41995C9F82` -> `boot-args` -> `revpatch=sbvmm`._
+              - _Adicionado em config.plist -> `Booter` -> `Quirks` -> `FixupAppleEfiImages`._      
+
+            - Terceira Mudança:            
+              - _Adicionanda a `kext`:_
+              - _`RestrictEvents`_ 
+               
+            - Quarta mudança:  
+              - _Atualizada a `kext`:_              
               - _`AppleALC.kext`_
+            
           draft: false
           prerelease: false
