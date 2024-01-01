@@ -46,7 +46,7 @@ _**macOS**_  _**Ventura (Sonoma BETA 1)**_
 
 - [x] *Áudio.*
 - [x] *Rede.*
-- [x] *WI-FI. (não funciona no Sonoma BETA 1)*
+- [x] *WI-FI.*
 - [x] *Bluetooth.*
 - [x] *USB.*
 - [x] *Sleep.*
