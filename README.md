@@ -16,7 +16,9 @@ _**macOS**_  _**Ventura (Sonoma BETA 1)**_
 
 ##
 
-## *Meu Setup*
+_**Meu Setup**_
+
+##
 
 - _**Placa Mãe**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" target="_blank">*Gigabyte Z390M GAMING*</a>
@@ -125,12 +127,13 @@ _**macOS**_  _**Ventura (Sonoma BETA 1)**_
 
 ## *Agradecimentos*
 
-- [*Acidanthera*](https://github.com/acidanthera)
+- [*Acidanthera Team*](https://github.com/acidanthera)
 - [*CorpNewt*](https://github.com/corpnewt)
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- *E outros*
 ##
 
 ## *Licença* 
