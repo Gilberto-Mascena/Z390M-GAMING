@@ -1,4 +1,4 @@
-# *EFI OC Z390M GAMING macOS Ventura (Sonoma BETA 1)*
+# *EFI OC Z390M GAMING macOS Ventura / Sonoma*
 
 
 
