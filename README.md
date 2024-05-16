@@ -1,10 +1,10 @@
 # *EFI OC Z390M GAMING macOS Ventura / Sonoma*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z390M_GAMING)
-![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390M_GAMING)
-[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Z390M_GAMING)](https://GitHub.com/Gilberto-Mascena/Z390M_GAMING)
-[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/Z390M_GAMING)](https://GitHub.com/Gilberto-Mascena/Z390M_GAMING)
-![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)
+[![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390M_GAMING)](https://github.com/Gilberto-Mascena/Z390M_GAMING/blob/main/LICENSE.md)
+[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Z390M_GAMING)](https://github.com/Gilberto-Mascena/Z390M_GAMING/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/Z390M_GAMING)](https://github.com/Gilberto-Mascena/Z390M_GAMING/issues)
+[![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)](https://github.com/Gilberto-Mascena/Z390M_GAMING/releases)
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390M_GAMING)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390M_GAMING)
 ##
