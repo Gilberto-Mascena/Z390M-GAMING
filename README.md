@@ -9,23 +9,23 @@
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390M_GAMING)
 ##
 
-## *Sistema Operacional*
+## *Operational system*
 
-<img align="right" src="./Imagens/banner.png" alt="foto Z390 M GAMING" width="330">
+<img align="right" src="./imgs/banner.png" alt="foto Z390 M GAMING" width="330">
 
 _**macOS**_  _**Ventura (Sonoma BETA 1)**_
 
 ##
 
-_**Meu Setup**_
+_**My Setup**_
 
 ##
 
-- _**Placa Mãe**_
-  - <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" target="_blank">*Gigabyte Z390M GAMING*</a>
-- _**Gabinete**_
-  - *Fortress-tg Gamemax*
-- _**Fonte**_
+- _**Motherboard**_
+  - <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" alt="photo Z390 M GAMING" target="_blank">*Gigabyte Z390M GAMING*</a>
+- _**Case**_
+  - *Pixxo Cg01 Rgb*
+- _**Power supply**_
   - *GIGABYTE - GP-P550*
 - _**CPU**_
   - *Core I7 9700F*
@@ -36,26 +36,26 @@ _**Meu Setup**_
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB / Windows 11*
 - _**GPU**_
-  - *RX 570 4G PowerColor*
-- _**Memória ram**_
-  - *CORSAIR VENGEANCE LPX 2x16GB total 32GB*
+  - *RX 570 4G PowerColor Red Dragon*
+- _**Memory**_
+  - *Crucial Ballistix 4x8GB 16GB*
 - _**WI-FI**_
   - *BCM94360CD chip Apple*
-- _**Rede**_
+- _**Network**_
   - *Intel I219-V*
 ##
 
-## *O que funciona*
+## *What works*
 
-- [x] *Áudio.*
-- [x] *Rede.*
-- [x] *WI-FI.*
-- [x] *Bluetooth.*
-- [x] *USB.*
-- [x] *Sleep.*
+- [x] *Sound*
+- [x] *Network*
+- [x] *WI-FI*
+- [x] *Bluetooth*
+- [x] *USB*
+- [x] *Sleep*
 ##
 
-## *Resultados Geekbench*
+## *Geekbench results*
 
 - [*Windows 11 Pro*](https://browser.geekbench.com/v5/cpu/19703206)
 - [*macOS Ventura 13.1*](https://browser.geekbench.com/v5/cpu/19703520)
@@ -63,75 +63,53 @@ _**Meu Setup**_
 - [*Ubuntu 22.04.2 LTS*](https://browser.geekbench.com/v6/cpu/1953890)
 ##
 
-## *Captura de telas*
+## *Screenshot*
 
-## *Sobre este mac*
-![Sobre Ventura](./Imagens/about_Ventura.png)
-![Sobre Sonoma](./Imagens/about_Sonoma.png)
-## *Hackintool periféricos*
-![Hackintool_Peripherals](./Imagens/Peripherals.png)
+## *About this mac*
+![about Ventura](./imgs/about_Ventura.png)
+![about Sonoma](./imgs/about_Sonoma.png)
+## *Hackintool peripherals*
+![Hackintool-Peripherals](./imgs/Peripherals.png)
 ## *Hackintool PCIe*
-![Hackintool_PCIe](./Imagens/PCIe.png)
-## *Hackintool mapeamento de portas USB*
-![USB_Ports](./Imagens/USB_Ports.png)
+![Hackintool-PCIe](./imgs/PCIe.png)
+## *Hackintool USB port mapping*
+![USB-Ports](./imgs/USB_Ports.png)
 ## *Hackintool kexts*
-![Hackintool_kexts](./Imagens/kexts.png)
+![Hackintool-kexts](./imgs/kexts.png)
 ##
 
-## *Kexts usadas, (todas versões Releases)*
+## *Kexts used, (all Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
-- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*.
+- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), only: `VirtualSMC.kext`, `SMCProcessor.kext` and `SMCSuperIO.kext`*.
 - *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
 - *`USBMap.kext`*
 ##
 
-## *Utilização*
+## *Recommended tools*
 
-* _**Recomendação 1**_
-  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
-* _**Recomendação 2**_
-  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist.*     
-* _**Recomendação 3**_
-  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
-* _**Recomendação 4**_
-  * *Extrair sua DSDT a partir do windows.*
-  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
-* _**Recomendação 5**_
-  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
+* _**Recommendation 1**_
+  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
+* _**Recommendation 2**_
+  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), to edit your config.plist.*    
+* _**Recommendation 3**_
+  * *Use [`USBMap`](https://github.com/corpnewt/USBMap), to map your USB ports, starting from OC 0.9.3, they can be mapped with XHCIPortLimit enabled in config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
+* _**Recommendation 4**_
+  * *Extract your DSDT from windows.*
+  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), to generate your SSDT patches.*   
+* _**Recommendation 5**_
+  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
 ##
 
-## *Configurações de BIOS Intel*
+## *Intel BIOS Settings*
 
-* _**Desativar**_
-
-  * *Fast Boot*
-  * *Secure Boot*
-  * *Serial/COM Port*
-  * *Parallel Port*
-  * *VT-d (pode ser ativado se você definir DisableIoMapper como true)*
-  * *Módulo de suporte de compatibilidade (CSM) (deve estar desativado na maioria dos casos, erros/paradas de GPU como gIO são comuns quando esta opção está ativada)*
-  * *Thunderbolt (para instalação inicial, pois o Thunderbolt pode causar problemas se não for configurado corretamente)*
-  * *Intel SGX*
-  * *Intel Platform Trust*
-  * *CFG Lock (proteção contra gravação MSR 0xE2) (deve estar desativado, se você não conseguir encontrar a opção, ative AppleXcpmCfgLock em Kernel -> Quirks. Seu hack não inicializará com o CFG-Lock ativado)*
-
-* _**Habilitar**_
-
-  * *VT-x*
-  * *Above 4G Decoding (Resizable BAR -> Disable)*
-  * *Hyper-Threading*
-  * *Execute Disable Bit*
-  * *EHCI/XHCI Hand-off*
-  * *Tipo de SO: Modo UEFI do Windows 8.1/10 (algumas placas-mãe podem exigir "Outro sistema operacional")*
-  * *DVMT pré-alocado (memória iGPU): 64 MB ou superior*
-  * *Modo SATA: AHCI*
+- [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 ##
 
-## *Agradecimentos*
+## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
 - [*CorpNewt*](https://github.com/corpnewt)
@@ -139,10 +117,10 @@ _**Meu Setup**_
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
-- *E outros*
+- *And others*
 ##
 
-## *Licença* 
+## *License* 
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
 
