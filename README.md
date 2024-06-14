@@ -13,7 +13,7 @@
 
 <img align="right" src="./imgs/banner.png" alt="foto Z390 M GAMING" width="330">
 
-_**macOS**_  _**Ventura (Sonoma BETA 1)**_
+_**macOS**_  _**Sonoma**_
 
 ##
 
@@ -66,16 +66,19 @@ _**My Setup**_
 ## *Screenshot*
 
 ## *About this mac*
-![about Ventura](./imgs/about_Ventura.png)
-![about Sonoma](./imgs/about_Sonoma.png)
-## *Hackintool peripherals*
-![Hackintool-Peripherals](./imgs/Peripherals.png)
-## *Hackintool PCIe*
-![Hackintool-PCIe](./imgs/PCIe.png)
+![about Sonoma](./imgs/about.png)
+## *Sound*
+![sound](./imgs/sound.png)
+## *Ethernet*
+![ethernet](./imgs/ethernet.png)
+## *Sound Peripherals*
+![sound-peripherals](./imgs/sound-peripherals.png)
+## *Peripherals*
+![peripherals](./imgs/peripherals.png)
 ## *Hackintool USB port mapping*
-![USB-Ports](./imgs/USB_Ports.png)
+![mapping](./imgs/mapping.png)
 ## *Hackintool kexts*
-![Hackintool-kexts](./imgs/kexts.png)
+![kexts](./imgs/kexts.png)
 ##
 
 ## *Kexts used, (all Releases)*
