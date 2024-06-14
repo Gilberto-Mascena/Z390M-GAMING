@@ -71,10 +71,10 @@ _**My Setup**_
 ![sound](./imgs/sound.png)
 ## *Ethernet*
 ![ethernet](./imgs/ethernet.png)
-## *Sound Peripherals*
-![sound-peripherals](./imgs/sound-peripherals.png)
 ## *Peripherals*
 ![peripherals](./imgs/peripherals.png)
+## *Sound Peripherals*
+![sound-peripherals](./imgs/sound-peripherals.png)
 ## *Hackintool USB port mapping*
 ![mapping](./imgs/mapping.png)
 ## *Hackintool kexts*
