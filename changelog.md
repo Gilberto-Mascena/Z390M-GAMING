@@ -9,5 +9,4 @@ _**Changes in this Version**_
     - VirtualSMC _133_
     - SMCSuperIO _133_
     - SMCProcessor _133_ 
-    - AppleALC _191_   
-    
+    - AppleALC _191_     
