@@ -1,0 +1,5 @@
+.gitattributes export-ignore
+.gitignore export-ignore
+.github export-ignore
+img/ export-ignore
+*.md export-ignore
