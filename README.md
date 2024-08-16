@@ -47,6 +47,7 @@ _**My Setup**_
   - *Crucial Ballistix 4x8GB 16GB*
 - _**WI-FI**_
   - *BCM94360CD chip Apple*
+    - _If you need to activate Broadcom WIFI on macOS Sonoma and later, more information coming soon_
 - _**Network**_
   - *Intel I219-V*
 
