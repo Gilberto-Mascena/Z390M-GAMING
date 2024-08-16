@@ -1,4 +1,4 @@
-# *EFI OC Z390M GAMING macOS Ventura / Sonoma*
+# *EFI OC Gigabyte Z390M GAMING*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z390M_GAMING)
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390M_GAMING)](https://github.com/Gilberto-Mascena/Z390M_GAMING/blob/main/LICENSE.md)
