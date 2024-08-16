@@ -9,17 +9,23 @@
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390M_GAMING)
 ##
 
-## *Operational system*
+## *Operating systems*
 
 <img align="right" src="./imgs/banner.png" alt="foto Z390 M GAMING" width="330">
 
-_**macOS**_  _**Sonoma**_
+<div align="left">
+  <img src="./imgs/macos-catalina-icon.png" alt="" width="55">
+  <img src="./imgs/macos-big-sur-icon.png" alt="" width="55">
+  <img src="./imgs/macos-monterey-icon.png" alt="" width="55">
+  <img src="./imgs/macos-ventura-icon.png" alt="" width="55">
+  <img src="./imgs/macos-sonoma-icon.png" alt="" width="55">
+  <img src="./imgs/windows-11-icon.png" alt="" width="50">
+  <img src="./imgs/ubuntu.png" alt="" width="50">
+</div>
 
-##
+---
 
 _**My Setup**_
-
-##
 
 - _**Motherboard**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" alt="photo Z390 M GAMING" target="_blank">*Gigabyte Z390M GAMING*</a>
