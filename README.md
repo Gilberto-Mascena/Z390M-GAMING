@@ -14,7 +14,7 @@
 <img align="right" src="./imgs/banner.png" alt="photo Z390 M GAMING" width="330">
 
 <div align="left">
-  <img src="./imgs/macos-full.png" alt="macos icons" width="300">
+  <img src="./imgs/macos-full.png" alt="macos icons" width="400">
 
 </div>
 
