@@ -37,7 +37,7 @@ _**My Setup**_
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB / Windows 11*
 - _**GPU**_
-  - *RX 570 4G PowerColor Red Dragon*
+  - *RADEON RX 570 4G RED DDRAGON PowerColor*
 - _**Memory**_
   - *Crucial Ballistix 4x8GB 16GB*
 - _**WI-FI**_
