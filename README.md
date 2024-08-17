@@ -11,16 +11,11 @@
 
 ## *Operating systems*
 
-<img align="right" src="./imgs/banner.png" alt="foto Z390 M GAMING" width="330">
+<img align="right" src="./imgs/banner.png" alt="photo Z390 M GAMING" width="330">
 
 <div align="left">
-  <img src="./imgs/macos-catalina-icon.png" alt="" width="55">
-  <img src="./imgs/macos-big-sur-icon.png" alt="" width="55">
-  <img src="./imgs/macos-monterey-icon.png" alt="" width="55">
-  <img src="./imgs/macos-ventura-icon.png" alt="" width="55">
-  <img src="./imgs/macos-sonoma-icon.png" alt="" width="55">
-  <img src="./imgs/windows-11-icon.png" alt="" width="50">
-  <img src="./imgs/ubuntu.png" alt="" width="50">
+  <img src="./imgs/macos-full.png" alt="macos icons" width="300">
+
 </div>
 
 ---
