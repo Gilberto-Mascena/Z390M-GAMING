@@ -40,12 +40,12 @@ _**My Setup**_
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB / Windows 11*
 - _**GPU**_
-  - *RADEON RX 570 4GB RED DDRAGON PowerColor*
+  - *RADEON RX 570 4GB RED DRAGON PowerColor*
 - _**Memory**_
   - *Crucial Ballistix 4x8GB 16GB*
 - _**WI-FI**_
   - *BCM94360CD chip Apple*
-    > _**Warning:** If you need to activate Broadcom WIFI on macOS Sonoma and later, more information coming soon_
+  
 - _**Network**_
   - *Intel I219-V*
 
