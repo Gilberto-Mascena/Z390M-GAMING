@@ -1,10 +1,10 @@
-#Github Actions to create a release and release project 
-#Gigabyte Z390M GAMING Hackintosh EFI
+# GitHub Actions to build and release a project
+# Gigabyte B85M-GAMING-3 Hackintosh EFI
 
 on:
-  push:    
+  push:       
     tags:
-      - 'v*' # Push events to matching v*, i.e. v1.0, v20.15.10
+      - 'v*'  # Push events to matching v*, i.e. v1.0, v20.15.10
 
 name: Uploud EFI to Release
 
@@ -16,11 +16,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3 
 
-      - name: Packaging EFIs  
-        run: |
-          zip -q -r EFI.zip ./EFI
+      - name: Packaging EFIs 
+        run: |          
+          zip -q -r Z390M-GAMING-WIFI-BROADCOM-SONOMA.zip ./Z390M-GAMING-WIFI-BROADCOM-SONOMA
+          zip -q -r Z390M-GAMING-WIFI-BROADCOM-VENTURA-BEFORE.zip ./Z390M-GAMING-WIFI-BROADCOM-VENTURA-BEFORE
           ls -l *.zip
-
+    
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -35,11 +36,13 @@ jobs:
 
       - name: Upload Release Asset
         id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
+        uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}  
-          asset_path: ./EFI.zip
-          asset_name: EFI.zip
-          asset_content_type: application/zip
+          name: Release v1.0.1.0        
+          prerelease: false
+          draft: false
+          body_path: changelog.md
+          files: |
+            ./*.zip
