@@ -101,7 +101,7 @@ _**My Setup**_
 
 <a id="ancora3"></a>
 
-## *Screenshot*
+## Screenshots
 
 ![about Sonoma](./imgs/about.png)
 ## *Sound*
