@@ -74,7 +74,8 @@ _**My Setup**_
 - [*License* ](#ancora8)
 
 <a id="ancora1"></a>
-## *What works*
+
+<details><summary><h2>What works</h2></summary>
 
 - [x] *Sound*
 - [x] *Network*
@@ -84,11 +85,12 @@ _**My Setup**_
 - [x] *Sleep*
 
 [Top](#ancora)
+</details>
 
----
 
 <a id="ancora2"></a>
-## *Geekbench results*
+
+<details><summary><h2>Geekbench results</h2></summary>
 
 - [*Windows 11 Pro*](https://browser.geekbench.com/v5/cpu/19703206)
 - [*macOS Ventura 13.1*](https://browser.geekbench.com/v5/cpu/19703520)
@@ -96,33 +98,54 @@ _**My Setup**_
 - [*Ubuntu 22.04.2 LTS*](https://browser.geekbench.com/v6/cpu/1953890)
 
 [Top](#ancora)
+</details>
 
----
+
 
 <a id="ancora3"></a>
 
 ## Screenshots
 
 ![about Sonoma](./imgs/about.png)
-## *Sound*
+
+<details><summary><h2>Sound</h2></summary>
+
 ![sound](./imgs/sound.png)
-## *Ethernet*
+</details>
+
+<details><summary><h2>Ethernet</h2></summary>
+
 ![ethernet](./imgs/ethernet.png)
-## *Peripherals*
+</details>
+
+<details><summary><h2>Peripherals</h2></summary>
+
+
 ![peripherals](./imgs/peripherals.png)
-## *Sound Peripherals*
+</details>
+
+<details><summary><h2>Sound Peripherals</h2></summary>
+
+
 ![sound-peripherals](./imgs/sound-peripherals.png)
-## *Hackintool USB port mapping*
+</details>
+
+<details><summary><h2>Hackintool USB port mapping</h2></summary>
+
+
 ![mapping](./imgs/mapping.png)
-## *Hackintool kexts*
+</details>
+
+<details><summary><h2>Hackintool kexts</h2></summary>
+
 ![kexts](./imgs/kexts.png)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora4"></a>
-## *Kexts used, (all Releases)*
+
+<details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -133,11 +156,11 @@ _**My Setup**_
 - *`USBMap.kext`*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora5"></a>
-## *Recommended tools*
+
+<details><summary><h2>Recommended tools</h2></summary>
 
 * _**Recommendation 1**_
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -152,17 +175,16 @@ _**My Setup**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora6"></a>
-## *Intel BIOS Settings*
+
+<details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora7"></a>
 ## *Thanks*
