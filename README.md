@@ -41,10 +41,21 @@ _**My Setup**_
   - *XPG GAMMIX S41 512GB / Windows 11*
 - _**GPU**_
   - *RADEON RX 570 4GB RED DRAGON PowerColor*
+
+> [!NOTE]
+> *For more information about GPUs compatible with macOS see: [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
+
+##
+
 - _**Memory**_
   - *Crucial Ballistix 4x8GB 16GB*
 - _**WI-FI**_
   - *BCM94360CD chip Apple*
+
+> [!NOTE]
+> *For more information about wifi cards compatible with macOS see: [Supported/Unsupported Chipsets](https://dortania.github.io/Wireless-Buyers-Guide/unsupported.html#supported-chipsets)*
+
+##
   
 - _**Network**_
   - *Intel I219-V*
@@ -89,6 +100,7 @@ _**My Setup**_
 ---
 
 <a id="ancora3"></a>
+
 ## *Screenshot*
 
 ![about Sonoma](./imgs/about.png)
