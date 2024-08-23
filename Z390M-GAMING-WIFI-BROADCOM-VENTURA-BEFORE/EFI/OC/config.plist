@@ -630,7 +630,7 @@
 			<key>PickerVariant</key>
 			<string>Acidanthera\GoldenGate</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
