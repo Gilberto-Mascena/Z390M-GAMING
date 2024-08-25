@@ -65,6 +65,7 @@ _**Minha configuração**_
 ---
 
 <a name="ancora"></a>
+
 ## _Navegação por tópicos_
 - [*O que funciona*](#ancora1)
 - [*Resultados do Geekbench*](#ancora2)
@@ -186,6 +187,7 @@ _**Minha configuração**_
 </details>
 
 <a id="ancora7"></a>
+
 ## *Agradecimentos*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -195,15 +197,16 @@ _**Minha configuração**_
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - [*OpenCore Legacy Patcher*](https://github.com/dortania/OpenCore-Legacy-Patcher)
-- *And others*
+- *E outros*
 
 [Top](#ancora)
 
 
 <a id="ancora8"></a>
+
 ## *Licença* 
 
-*The* [*MIT Licença*](LICENSE.md) (*MIT*)
+[*Licença MIT*](LICENSE.md) (*MIT*)
 
 ### Gilberto | Dev _2020_ 
 
