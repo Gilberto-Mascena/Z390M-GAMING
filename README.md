@@ -202,8 +202,6 @@ _**My Setup**_
 
 [Top](#ancora)
 
----
-
 <a id="ancora8"></a>
 ## *License* 
 
