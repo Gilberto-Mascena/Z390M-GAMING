@@ -1,3 +1,5 @@
+[Português Brasileiro](https://github.com/Gilberto-Mascena/Z390M-GAMING/blob/main/README-pt_br.md) | [English](https://github.com/Gilberto-Mascena/Z390M-GAMING/blob/main/README.md)
+
 # *EFI OC Gigabyte Z390M GAMING*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z390M_GAMING)
