@@ -195,6 +195,7 @@ _**My Setup**_
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- [*OpenCore Legacy Patcher*](https://github.com/dortania/OpenCore-Legacy-Patcher)
 - *And others*
 
 [Top](#ancora)
