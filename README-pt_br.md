@@ -155,6 +155,8 @@ _**Minha configuração**_
 [Top](#ancora)
 </details>
 
+<a id="ancora5"></a>
+
 <details><summary><h2>Ferramentas recomendadas</h2></summary>
 
 * _**Recomendação 1**_
