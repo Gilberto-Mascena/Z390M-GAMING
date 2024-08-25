@@ -206,7 +206,7 @@ _**My Setup**_
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
 
-*Copyright :copyright: 2020* 
+## Gilberto | Dev _2020_ 
 
 [Top](#ancora)
 
