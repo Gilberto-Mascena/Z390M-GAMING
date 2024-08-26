@@ -87,7 +87,7 @@ _**Minha configuração**_
 - [x] *USB*
 - [x] *Sleep*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora2"></a>
@@ -99,7 +99,7 @@ _**Minha configuração**_
 - [*macOS Sonoma 14.0 Beta 1*](https://browser.geekbench.com/v6/cpu/1566485)
 - [*Ubuntu 22.04.2 LTS*](https://browser.geekbench.com/v6/cpu/1953890)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora3"></a>
@@ -140,7 +140,7 @@ _**Minha configuração**_
 
 ![kexts](./imgs/kexts.png)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora4"></a>
@@ -155,7 +155,7 @@ _**Minha configuração**_
 - *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
 - *`USBMap.kext`*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora5"></a>
@@ -174,7 +174,7 @@ _**Minha configuração**_
 * _**Recomendação 5**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches SSDT no mac*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora6"></a>
@@ -183,7 +183,7 @@ _**Minha configuração**_
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora7"></a>
@@ -199,7 +199,7 @@ _**Minha configuração**_
 - [*OpenCore Legacy Patcher*](https://github.com/dortania/OpenCore-Legacy-Patcher)
 - *E outros*
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 
 <a id="ancora8"></a>
@@ -210,6 +210,6 @@ _**Minha configuração**_
 
 ### Gilberto | Dev _2020_ 
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 ---
