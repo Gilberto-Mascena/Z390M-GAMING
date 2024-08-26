@@ -44,7 +44,7 @@ _**Minha configuração**_
 - _**GPU**_
   - *RADEON RX 570 4GB RED DRAGON PowerColor*
 
-  > [!NOTE]
+> [!NOTE]
 > *Para obter mais informações sobre GPUs compatíveis com macOS, consulte: [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
 
 ##
