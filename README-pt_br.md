@@ -13,8 +13,12 @@
 
 ## *Sistemas operacionais*
 
-<div align="left">
-  <img src="./imgs/macos-full.png" alt="macos icons">
+<div align="left">  
+  <img width="100" src="./imgs/macos-catalina-icon.png" alt="macOS Catalina icons"> 
+  <img width="100" src="./imgs/macos-big-sur-icon.png" alt="macOS Big Sur icons"> 
+  <img width="100" src="./imgs/macos-monterey-icon.png" alt="macOS Monterey icons">  
+  <img width="100" src="./imgs/macos-ventura-icon.png" alt="macOS Ventura icons">  
+  <img width="100" src="./imgs/macos-sonoma-icon.png" alt="macOS Sonoma icons">
 </div>
 
 <div>
