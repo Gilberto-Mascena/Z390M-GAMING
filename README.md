@@ -69,20 +69,20 @@ _**My Setup**_
 
 ---
 
-<a name="ancora"></a>
+<a name="anchor"></a>
 
 ## _Topic navigation_
 
-- [*What works*](#ancora1)
-- [*Geekbench results*](#ancora2)
-- [*Screenshot*](#ancora3)
-- [*Kexts used, (all Releases)*](#ancora4)
-- [*Recommended tools*](#ancora5)
-- [*Intel BIOS Settings*](#ancora6)
-- [*Thanks*](#ancora7)
-- [*License* ](#ancora8)
+- [*What works*](#anchor1)
+- [*Geekbench results*](#anchor2)
+- [*Screenshot*](#anchor3)
+- [*Kexts used, (all Releases)*](#anchor4)
+- [*Recommended tools*](#anchor5)
+- [*Intel BIOS Settings*](#anchor6)
+- [*Thanks*](#anchor7)
+- [*License* ](#anchor8)
 
-<a id="ancora1"></a>
+<a id="anchor1"></a>
 
 <details><summary><h2>What works</h2></summary>
 
@@ -93,11 +93,11 @@ _**My Setup**_
 - [x] *USB*
 - [x] *Sleep*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
 
-<a id="ancora2"></a>
+<a id="anchor2"></a>
 
 <details><summary><h2>Geekbench results</h2></summary>
 
@@ -106,12 +106,12 @@ _**My Setup**_
 - [*macOS Sonoma 14.0 Beta 1*](https://browser.geekbench.com/v6/cpu/1566485)
 - [*Ubuntu 22.04.2 LTS*](https://browser.geekbench.com/v6/cpu/1953890)
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
 
 
-<a id="ancora3"></a>
+<a id="anchor3"></a>
 
 ## Screenshots
 
@@ -149,10 +149,10 @@ _**My Setup**_
 
 ![kexts](./imgs/kexts.png)
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora4"></a>
+<a id="anchor4"></a>
 
 <details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
@@ -164,10 +164,10 @@ _**My Setup**_
 - *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
 - *`USBMap.kext`*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora5"></a>
+<a id="anchor5"></a>
 
 <details><summary><h2>Recommended tools</h2></summary>
 
@@ -183,21 +183,21 @@ _**My Setup**_
 * _**Recommendation 5**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora6"></a>
+<a id="anchor6"></a>
 
 <details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
 ## [_Creating macOS Installer on Windows or Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
 
-<a id="ancora7"></a>
+<a id="anchor7"></a>
 
 ## *Thanks*
 
@@ -210,9 +210,9 @@ _**My Setup**_
 - [*OpenCore Legacy Patcher*](https://github.com/dortania/OpenCore-Legacy-Patcher)
 - *And others*
 
-[Top](#ancora)
+[Top](#anchor)
 
-<a id="ancora8"></a>
+<a id="anchor8"></a>
 
 ## *License* 
 
@@ -220,6 +220,6 @@ _**My Setup**_
 
 ### Gilberto | Dev _2020_ 
 
-[Top](#ancora)
+[Top](#anchor)
 
 ---
