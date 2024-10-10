@@ -16,13 +16,9 @@
         - _VirtualSMC 1.3.4_
         - _WhateverGreen 1.6.8_  
 
-       ---
-
 > [!IMPORTANT]
-
 > _Z390M-GAMING-WIFI-BROADCOM-VENTURA-BEFORE_
 > - _For Catalina to Ventura with native Broadcom_
-
 > _Z390M-GAMING-WIFI-BROADCOM-SONOMA_
 > - _For Sonoma, then run [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases). Always use the latest version_
 
