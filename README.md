@@ -34,7 +34,7 @@ _**My Setup**_
   - <a href="https://www.gigabyte.com/br/Motherboard/Z390-M-GAMING-rev-10#kf" alt="photo Z390 M GAMING" target="_blank">*Gigabyte Z390M GAMING*</a>
 - _**Bios version**_
   - *F10*
-- _**Case**_
+- _**PC Case**_
   - *Pixxo Cg01 Rgb*
 - _**Power supply**_
   - *GIGABYTE - GP-P550*
