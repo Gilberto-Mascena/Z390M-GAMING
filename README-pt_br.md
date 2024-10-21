@@ -217,5 +217,3 @@ _**Minha configuração**_
 ### Gilberto | Dev _2020_ 
 
 [Voltar](#ancora)
-
----
