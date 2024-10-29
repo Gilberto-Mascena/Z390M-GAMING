@@ -19,6 +19,7 @@
   <img width="100" src="./imgs/macos-monterey-icon.png" alt="macOS Monterey icons">  
   <img width="100" src="./imgs/macos-ventura-icon.png" alt="macOS Ventura icons">  
   <img width="100" src="./imgs/macos-sonoma-icon.png" alt="macOS Sonoma icons">
+  <img width="100" src="./imgs/macos-sequoia-icon.png" alt="macOS Sequoia icons">
 </div>
 
 <div>
