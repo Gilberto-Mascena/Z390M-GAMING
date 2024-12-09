@@ -2,7 +2,7 @@
 
 - ### _Updates in this release:_    
     - #### _Opencore_
-        - Version _1.0.3_
+        - _Version 1.0.3_
 
     
 
