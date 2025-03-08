@@ -1,16 +1,15 @@
 ## _**Changes in this Version**_
 
-- ### _Updates in this release:_    
+- ### 🎉 _Updates in this release:_    
     - #### _Opencore_
-        - _Version 1.0.3_
+        - _Version 1.0.4_
 
     
 
     - #### _Kexts_
-        - _AppleALC 1.9.3_    
-        - _IntelMausi 1.0.8_
-        - _Lilu 1.7.0_       
-        - _WhateverGreen 1.6.9_  
+        - _AppleALC 1.9.4_    
+        - _VirtualSMC 1.3.5_
+
 
 > [!IMPORTANT]
 > _Z390M-GAMING-WIFI-BROADCOM-VENTURA-BEFORE_
