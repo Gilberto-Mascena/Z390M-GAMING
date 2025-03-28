@@ -86,7 +86,7 @@ _**Minha configuração**_
 
 <a id="ancora1"></a>
 
-<details><summary><h2>O que funciona</h2></summary>
+<details><summary><h2>O que funciona 👀</h2></summary>
 
 - [x] *Audio*
 - [x] *Rede*
@@ -100,7 +100,7 @@ _**Minha configuração**_
 
 <a id="ancora2"></a>
 
-<details><summary><h2>Resultados do Geekbench</h2></summary>
+<details><summary><h2>Resultados do Geekbench 👀</h2></summary>
 
 - [*Windows 11 Pro*](https://browser.geekbench.com/v5/cpu/19703206)
 - [*macOS Ventura 13.1*](https://browser.geekbench.com/v5/cpu/19703520)
@@ -116,35 +116,35 @@ _**Minha configuração**_
 
 ![about Sonoma](./imgs/about.png)
 
-<details><summary><h2>Audio</h2></summary>
+<details><summary><h2>Audio 👀</h2></summary>
 
 ![sound](./imgs/sound.png)
 </details>
 
-<details><summary><h2>Rede</h2></summary>
+<details><summary><h2>Rede 👀</h2></summary>
 
 ![ethernet](./imgs/ethernet.png)
 </details>
 
-<details><summary><h2>Periféricos</h2></summary>
+<details><summary><h2>Periféricos 👀</h2></summary>
 
 
 ![peripherals](./imgs/peripherals.png)
 </details>
 
-<details><summary><h2>Audio Hackintool</h2></summary>
+<details><summary><h2>Audio Hackintool 👀</h2></summary>
 
 
 ![sound-peripherals](./imgs/sound-peripherals.png)
 </details>
 
-<details><summary><h2>Mapeamento de portas USB</h2></summary>
+<details><summary><h2>Mapeamento de portas USB 👀</h2></summary>
 
 
 ![mapping](./imgs/mapping.png)
 </details>
 
-<details><summary><h2>kexts</h2></summary>
+<details><summary><h2>kexts 👀</h2></summary>
 
 ![kexts](./imgs/kexts.png)
 
@@ -153,7 +153,7 @@ _**Minha configuração**_
 
 <a id="ancora4"></a>
 
-<details><summary><h2>Kexts usados, (todas releases)</h2></summary>
+<details><summary><h2>Kexts usados, (todas releases) 👀</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -168,7 +168,7 @@ _**Minha configuração**_
 
 <a id="ancora5"></a>
 
-<details><summary><h2>Ferramentas recomendadas</h2></summary>
+<details><summary><h2>Ferramentas recomendadas 👀</h2></summary>
 
 * _**Recomendação 1**_
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para seu SMBIOS a fim de evitar conflitos com iServices*
@@ -187,7 +187,7 @@ _**Minha configuração**_
 
 <a id="ancora6"></a>
 
-<details><summary><h2>Configurações de BIOS Intel</h2></summary>
+<details><summary><h2>Configurações de BIOS Intel 👀</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 

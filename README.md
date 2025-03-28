@@ -87,7 +87,7 @@ _**My Setup**_
 
 <a id="anchor1"></a>
 
-<details><summary><h2>What works</h2></summary>
+<details><summary><h2>What works 👀</h2></summary>
 
 - [x] *Sound*
 - [x] *Network*
@@ -102,7 +102,7 @@ _**My Setup**_
 
 <a id="anchor2"></a>
 
-<details><summary><h2>Geekbench results</h2></summary>
+<details><summary><h2>Geekbench results 👀</h2></summary>
 
 - [*Windows 11 Pro*](https://browser.geekbench.com/v5/cpu/19703206)
 - [*macOS Ventura 13.1*](https://browser.geekbench.com/v5/cpu/19703520)
@@ -120,35 +120,35 @@ _**My Setup**_
 
 ![about Sonoma](./imgs/about.png)
 
-<details><summary><h2>Sound</h2></summary>
+<details><summary><h2>Sound 👀</h2></summary>
 
 ![sound](./imgs/sound.png)
 </details>
 
-<details><summary><h2>Ethernet</h2></summary>
+<details><summary><h2>Ethernet 👀</h2></summary>
 
 ![ethernet](./imgs/ethernet.png)
 </details>
 
-<details><summary><h2>Peripherals</h2></summary>
+<details><summary><h2>Peripherals 👀</h2></summary>
 
 
 ![peripherals](./imgs/peripherals.png)
 </details>
 
-<details><summary><h2>Sound Peripherals</h2></summary>
+<details><summary><h2>Sound Peripherals 👀</h2></summary>
 
 
 ![sound-peripherals](./imgs/sound-peripherals.png)
 </details>
 
-<details><summary><h2>Hackintool USB port mapping</h2></summary>
+<details><summary><h2>Hackintool USB port mapping 👀</h2></summary>
 
 
 ![mapping](./imgs/mapping.png)
 </details>
 
-<details><summary><h2>Hackintool kexts</h2></summary>
+<details><summary><h2>Hackintool kexts 👀</h2></summary>
 
 ![kexts](./imgs/kexts.png)
 
@@ -157,7 +157,7 @@ _**My Setup**_
 
 <a id="anchor4"></a>
 
-<details><summary><h2>Kexts used, (all Releases)</h2></summary>
+<details><summary><h2>Kexts used, (all Releases) 👀</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -172,7 +172,7 @@ _**My Setup**_
 
 <a id="anchor5"></a>
 
-<details><summary><h2>Recommended tools</h2></summary>
+<details><summary><h2>Recommended tools 👀</h2></summary>
 
 * _**Recommendation 1**_
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -191,7 +191,7 @@ _**My Setup**_
 
 <a id="anchor6"></a>
 
-<details><summary><h2>Intel BIOS Settings</h2></summary>
+<details><summary><h2>Intel BIOS Settings 👀</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
