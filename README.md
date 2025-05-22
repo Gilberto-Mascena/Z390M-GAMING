@@ -58,7 +58,7 @@ _**My Setup**_
 ##
 
 - _**Memory**_
-  - *Crucial Ballistix 4x8GB 16GB*
+  - *Crucial Ballistix 4x4GB 16GB*
 - _**WI-FI**_
   - *BCM94360CD chip Apple*
 
