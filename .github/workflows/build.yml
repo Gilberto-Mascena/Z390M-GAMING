@@ -18,9 +18,12 @@ jobs:
 
       - name: Packaging EFIs 
         run: |          
-          zip -q -r Z390M-GAMING-WIFI-BROADCOM-SONOMA.zip ./Z390M-GAMING-WIFI-BROADCOM-SONOMA
-          zip -q -r Z390M-GAMING-WIFI-BROADCOM-VENTURA-BEFORE.zip ./Z390M-GAMING-WIFI-BROADCOM-VENTURA-BEFORE
-          ls -l *.zip
+          zip -q -r Z390M-GAMING-TAHOE.zip ./Z390M-GAMING-TAHOE
+          zip -q -r Z390M-GAMING-SONOMA-SEQUOIA.zip ./Z390M-GAMING-SONOMA-SEQUOIA
+          zip -q -r Z390M-GAMING-CATALINA-VENTURA.zip ./Z390M-GAMING-CATALINA-VENTURA
+          zip -q -r Z390M-GAMING-MOJAVE.zip ./Z390M-GAMING-MOJAVE
+          zip -q -r Z390M-GAMING-HIGH-SIERRA.zip ./Z390M-GAMING-HIGH-SIERRA
+
 
       - name: Generate release tag
         id: tag
