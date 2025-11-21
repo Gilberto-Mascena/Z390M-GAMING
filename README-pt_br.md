@@ -17,16 +17,18 @@
 ## *Sistemas operacionais*
 
 <div align="left">  
-  <img width="100" src="./imgs/macos-catalina-icon.png" alt="macOS Catalina icons"> 
-  <img width="100" src="./imgs/macos-big-sur-icon.png" alt="macOS Big Sur icons"> 
-  <img width="100" src="./imgs/macos-monterey-icon.png" alt="macOS Monterey icons">  
-  <img width="100" src="./imgs/macos-ventura-icon.png" alt="macOS Ventura icons">  
-  <img width="100" src="./imgs/macos-sonoma-icon.png" alt="macOS Sonoma icons">
-  <img width="100" src="./imgs/macos-sequoia-icon.png" alt="macOS Sequoia icons">
+  <img width="100" src="./imgs/icons/macos-high-sierra.png" alt="macOS Catalina icons">
+   <img width="100" src="./imgs/icons/macos-mojave.png" alt="macOS Catalina icons"> 
+   <img width="100" src="./imgs/icons/macos-catalina.png" alt="macOS Catalina icons"> 
+  <img width="100" src="./imgs/icons/macos-big-sur.png" alt="macOS Big Sur icons"> 
+  <img width="100" src="./imgs/icons/macos-monterey.png" alt="macOS Monterey icons">  
+  <img width="100" src="./imgs/icons/macos-ventura.png" alt="macOS Ventura icons">  
+  <img width="100" src="./imgs/icons/macos-sonoma.png" alt="macOS Sonoma icons">
+  <img width="100" src="./imgs/icons/macos-sequoia.png" alt="macOS Sequoia icons">
 </div>
 
 <div>
-  <img align="right" src="./imgs/banner.png" alt="photo Z390 M GAMING" width="330">
+  <img align="right" src="./imgs/mb-img/banner.png" alt="photo Z390 M GAMING" width="330">
 </div>
 
 ---
@@ -114,39 +116,111 @@ _**Minha configuração**_
 
 ## Capturas de telas
 
-![about Sonoma](./imgs/about.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-01.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-02.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-03.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-04.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-05.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-06.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-07.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-08.png)
+![tahoe](./imgs/os-infos/img-tahoe/img-09.png)
 
-<details><summary><h2>Audio 👀</h2></summary>
+<details><summary><h2>Sequoia 👀</h2></summary>
 
-![sound](./imgs/sound.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-01.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-02.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-03.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-04.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-05.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-06.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-07.png)
+![sequoia](./imgs/os-infos/img-sequoia/img-08.png)
 </details>
 
-<details><summary><h2>Rede 👀</h2></summary>
+<details><summary><h2>Sonoma 👀</h2></summary>
 
-![ethernet](./imgs/ethernet.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-01.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-02.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-03.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-04.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-05.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-06.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-07.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-08.png)
+![sonoma](./imgs/os-infos/img-sonoma/img-09.png)
 </details>
 
-<details><summary><h2>Periféricos 👀</h2></summary>
+<details><summary><h2>Ventura 👀</h2></summary>
 
 
-![peripherals](./imgs/peripherals.png)
+![ventura](./imgs/os-infos/img-ventura/img-01.png)
+![ventura](./imgs/os-infos/img-ventura/img-02.png)
+![ventura](./imgs/os-infos/img-ventura/img-03.png)
+![ventura](./imgs/os-infos/img-ventura/img-04.png)
+![ventura](./imgs/os-infos/img-ventura/img-05.png)
+![ventura](./imgs/os-infos/img-ventura/img-06.png)
+![ventura](./imgs/os-infos/img-ventura/img-07.png)
 </details>
 
-<details><summary><h2>Audio Hackintool 👀</h2></summary>
+<details><summary><h2>Monterey 👀</h2></summary>
 
 
-![sound-peripherals](./imgs/sound-peripherals.png)
+![monterey](./imgs/os-infos/img-monterey/img-01.png)
+![monterey](./imgs/os-infos/img-monterey/img-02.png)
+![monterey](./imgs/os-infos/img-monterey/img-03.png)
+![monterey](./imgs/os-infos/img-monterey/img-04.png)
+![monterey](./imgs/os-infos/img-monterey/img-05.png)
+![monterey](./imgs/os-infos/img-monterey/img-06.png)
+![monterey](./imgs/os-infos/img-monterey/img-07.png)
+![monterey](./imgs/os-infos/img-monterey/img-08.png)
 </details>
 
-<details><summary><h2>Mapeamento de portas USB 👀</h2></summary>
+<details><summary><h2>Big Sur 👀</h2></summary>
 
 
-![mapping](./imgs/mapping.png)
+![big-sur](./imgs/os-infos/img-big-sur/img-01.png)
+![big-sur](./imgs/os-infos/img-big-sur/img-02.png)
+![big-sur](./imgs/os-infos/img-big-sur/img-03.png)
+![big-sur](./imgs/os-infos/img-big-sur/img-04.png)
+![big-sur](./imgs/os-infos/img-big-sur/img-05.png)
+![big-sur](./imgs/os-infos/img-big-sur/img-06.png)
+![big-sur](./imgs/os-infos/img-big-sur/img-07.png)
 </details>
 
-<details><summary><h2>kexts 👀</h2></summary>
+<details><summary><h2>Catalina 👀</h2></summary>
 
-![kexts](./imgs/kexts.png)
+![catalina](./imgs/os-infos/img-catalina/img-01.png)
+![catalina](./imgs/os-infos/img-catalina/img-02.png)
+![catalina](./imgs/os-infos/img-catalina/img-03.png)
+![catalina](./imgs/os-infos/img-catalina/img-04.png)
+![catalina](./imgs/os-infos/img-catalina/img-05.png)
+![catalina](./imgs/os-infos/img-catalina/img-06.png)
+![catalina](./imgs/os-infos/img-catalina/img-07.png)
+</details>
+
+<details><summary><h2>Mojave 👀</h2></summary>
+
+![mojave](./imgs/os-infos/img-mojave/img-01.png)
+![mojave](./imgs/os-infos/img-mojave/img-02.png)
+![mojave](./imgs/os-infos/img-mojave/img-03.png)
+![mojave](./imgs/os-infos/img-mojave/img-04.png)
+![mojave](./imgs/os-infos/img-mojave/img-05.png)
+![mojave](./imgs/os-infos/img-mojave/img-06.png)
+
+</details>
+
+<details><summary><h2>High Sierra 👀</h2></summary>
+
+![high-sierra](./imgs/os-infos/img-high-sierra/img-01.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-02.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-03.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-04.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-05.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-06.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-07.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-08.png)
+![high-sierra](./imgs/os-infos/img-high-sierra/img-09.png)
 
 [Voltar](#ancora)
 </details>
