@@ -1,42 +1,38 @@
-# GitHub Actions to build and release EFI
-# Optimized for Z390M-GAMING and others
-
 name: Uploud EFI to Release
 
 on:
-  push:       
+  push:
     tags:
-      - 'v*'  # Dispara quando você cria uma tag começando com 'v'
+      - 'v*'
 
 jobs:
   build:
-    name: Upload Release Asset
-    runs-on: ubuntu-latest    
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # Atualizado para a versão mais recente
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Necessário para o GitHub conseguir comparar os commits e gerar as notas
 
-      - name: Packaging EFIs 
-        run: |          
-          zip -q -r Z390M-GAMING-TAHOE.zip ./Z390M-GAMING-TAHOE
-          zip -q -r Z390M-GAMING-SONOMA-SEQUOIA.zip ./Z390M-GAMING-SONOMA-SEQUOIA
-          zip -q -r Z390M-GAMING-CATALINA-VENTURA.zip ./Z390M-GAMING-CATALINA-VENTURA
-          zip -q -r Z390M-GAMING-MOJAVE.zip ./Z390M-GAMING-MOJAVE
-          zip -q -r Z390M-GAMING-HIGH-SIERRA.zip ./Z390M-GAMING-HIGH-SIERRA
+      - name: Packaging EFIs
+        run: |
+          # Compacta cada pasta individualmente
+          zip -r "Z390M-GAMING-HIGH-SIERRA.zip" "Z390M-GAMING-HIGH-SIERRA"
+          zip -r "Z390M-GAMING-MOJAVE.zip" "Z390M-GAMING-MOJAVE"
+          zip -r "Z390M-GAMING-CATALINA-VENTURA.zip" "Z390M-GAMING-CATALINA-VENTURA"
+          zip -r "Z390M-GAMING-SONOMA-SEQUOIA.zip" "Z390M-GAMING-SONOMA-SEQUOIA"
+          zip -r "Z390M-GAMING-TAHOE.zip" "Z390M-GAMING-TAHOE"
 
       - name: Upload Release Asset
-        id: upload-release-asset 
-        uses: softprops/action-gh-release@v2 # Atualizado para v2
+        uses: softprops/action-gh-release@v2
         with:
-          # Agora ele usa o nome da TAG que você criar no comando GH ou Git
-          name: Release ${{ github.ref_name }}
-          tag_name: ${{ github.ref }}
-          # Se existir changelog.md, ele usa. Se não, gera notas automáticas.
-          body_path: ${{ hashFiles('changelog.md') != '' && 'changelog.md' || '' }}
-          generate_release_notes: true
+          name: EFI Z390M ${{ github.ref_name }}
+          body_path: changelog.md
+          generate_release_notes: true # Gera o "What's Changed" automaticamente
           draft: false
           prerelease: false
           files: |
             ./*.zip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
