@@ -2,7 +2,7 @@
 
 - ### 🎉 _Updates in this release:_    
     - #### _Opencore_
-        - _Version 1.0.7_  
+        - _Version 1.0.8_  
 
     - #### Drivers
         - _AudioDxe_
@@ -11,9 +11,9 @@
         - _ResetNvramEntry_
 
     - #### _Kexts_
-        - _AppleALC 1.9.7_    
-        - _Lilu 1.7.2_
-        - _NVMeFix 1.1.3_
+        - _WhateverGreen 1.7.1_    
+        - _VirtualSMC 1.3.8_
+        - _AppleALC 1.9.8_
                 
     - #### Tools
         - _OpenShell_
